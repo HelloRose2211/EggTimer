@@ -13,6 +13,7 @@
 		C645E1E62995056900659652 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C645E1E42995056900659652 /* Main.storyboard */; };
 		C645E1E82995056A00659652 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C645E1E72995056A00659652 /* Assets.xcassets */; };
 		C645E1EB2995056A00659652 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C645E1E92995056A00659652 /* LaunchScreen.storyboard */; };
+		C645E1F3299538B500659652 /* alarm_sound.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = C645E1F2299538B500659652 /* alarm_sound.mp3 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		C645E1E72995056A00659652 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		C645E1EA2995056A00659652 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		C645E1EC2995056A00659652 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C645E1F2299538B500659652 /* alarm_sound.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = alarm_sound.mp3; path = "../../EggTimer-iOS13/EggTimer/alarm_sound.mp3"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +63,7 @@
 				C645E1E22995056900659652 /* ViewController.swift */,
 				C645E1E42995056900659652 /* Main.storyboard */,
 				C645E1E72995056A00659652 /* Assets.xcassets */,
+				C645E1F2299538B500659652 /* alarm_sound.mp3 */,
 				C645E1E92995056A00659652 /* LaunchScreen.storyboard */,
 				C645E1EC2995056A00659652 /* Info.plist */,
 			);
@@ -127,6 +130,7 @@
 			files = (
 				C645E1EB2995056A00659652 /* LaunchScreen.storyboard in Resources */,
 				C645E1E82995056A00659652 /* Assets.xcassets in Resources */,
+				C645E1F3299538B500659652 /* alarm_sound.mp3 in Resources */,
 				C645E1E62995056900659652 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
